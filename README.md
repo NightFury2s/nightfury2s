@@ -135,6 +135,16 @@ Developer-focused tools for:
   />
 </p>
 
+---
+
+## 📈 Development Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
+---
+
 ## 📈 Contribution Activity
 
 <p align="center">
