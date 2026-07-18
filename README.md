@@ -129,6 +129,18 @@ Developer-focused tools for:
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NightFury2s&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NightFury2s&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
 ## 📈 Contribution Activity
 
 <p align="center">
