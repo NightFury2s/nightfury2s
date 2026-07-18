@@ -2,10 +2,6 @@
 
 ### Full-Stack Developer passionate about AI Automation, Open Source & Scalable Systems
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NightFury2s&label=Profile views&color=0e75b6&style=flat" alt="NightFury2s" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NightFury2s" alt="NightFury2s" /></a> </p>
-
 - 🔭 I'm currently working on **AI-powered automation workflows, self-hosted infrastructure, and open-source developer tools**
 
 - 🌱 I'm currently learning **System Design, Distributed Systems, LLM Engineering, and Advanced TypeScript**
