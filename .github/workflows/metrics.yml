@@ -9,6 +9,9 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -16,9 +19,11 @@ jobs:
 
           user: NightFury2s
 
-          base: header, activity, community, repositories
+          filename: github-metrics.svg
 
-          plugin_followup: yes
+          base: header, activity, community, repositories, metadata
+
           plugin_habits: yes
+          plugin_followup: yes
           plugin_isocalendar: yes
           plugin_languages: yes
