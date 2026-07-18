@@ -1,128 +1,162 @@
 <h1 align="center">Hi 👋, I'm NightFury</h1>
 
-<h3 align="center">
-Full-Stack Developer passionate about AI Automation, Open Source & Scalable Systems
-</h3>
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=NightFury2s&label=Profile%20Views&color=0e75b6&style=flat" />
+  <strong>AI Engineer • Full-Stack Developer • Open Source Builder</strong>
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=NightFury2s&theme=onedark&row=1&column=7" />
-</a>
+Building AI Agents, Automation Systems, and Scalable Developer Tools.
 </p>
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently building **AI-powered automation workflows**
-- 🌱 Learning **System Design, Distributed Systems, LLM Engineering**
-- 👯 Looking to collaborate on **Open Source AI, Automation & SaaS**
-- 🤝 Open to discussions about **Scalable Architectures**
-- 💬 Ask me about **React, Next.js, Node.js, n8n, APIs, AI Automation**
-- 📫 Reach me at **dangmanh053@gmail.com**
-- ⚡ I automate repetitive tasks for fun and build AI-powered products
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/NightFury2s">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://dev.to/ManhDang">
-<img src="https://skillicons.dev/icons?i=devto" />
-</a>
-
-<a href="https://linkedin.com/in/manh-dang-0096862a8">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://facebook.com/NFINCCO">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://discord.gg/731526292712849418">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://github.com/NightFury2s">
+    <img src="https://komarev.com/ghpvc/?username=NightFury2s&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I'm Building
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,python,docker,linux,git,github,mongodb,postgres,mysql,redis,nginx,nestjs,tailwind,firebase,graphql,postman,npm,bun,vscode" />
-
-</p>
+- 🤖 AI Agents & Multi-Agent Systems
+- ⚡ Workflow Automation with n8n
+- 🏗️ Self-hosted Infrastructure
+- 🔥 Open Source Developer Tools
+- 📦 SaaS Products powered by AI
+- 🧠 LLM Applications & RAG Systems
 
 ---
 
-## 🤖 AI & Automation
+## 💡 About Me
 
-<p align="center">
+```yaml
+name: NightFury
+role: AI Engineer / Full-Stack Developer
 
+current_focus:
+  - AI Agents
+  - Automation Systems
+  - LLM Engineering
+  - System Design
+
+interests:
+  - Open Source
+  - DevTools
+  - SaaS
+  - Infrastructure
+
+currently_learning:
+  - Distributed Systems
+  - Advanced TypeScript
+  - AI Architecture Patterns
+```
+
+---
+
+## 🛠 Core Stack
+
+### AI & Automation
+
+<p>
 <img src="https://skillicons.dev/icons?i=python,nodejs,docker,mongodb,postgres" />
-
 </p>
 
-### Tools I Use
-
-- n8n
 - OpenAI API
 - Claude API
 - Ollama
 - LangChain
 - Vector Databases
-- Self-hosted Infrastructure
-- RAG Systems
+- RAG Pipelines
 - AI Agents
+- n8n
+
+### Full Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,tailwind,nestjs" />
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,postgres,mongodb,redis,git,github" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 AI Automation Platform
+
+Build and orchestrate AI workflows using:
+- n8n
+- OpenAI
+- LangChain
+- Self-hosted services
+
+### 🚀 AI SaaS Applications
+
+Production-ready AI products with:
+- Next.js
+- TypeScript
+- PostgreSQL
+- Docker
+
+### 🔧 Open Source Developer Tools
+
+Developer-focused tools for:
+- Productivity
+- Automation
+- Infrastructure
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NightFury2s&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=NightFury2s&show_icons=true&theme=github_dark&hide_border=true"
+  />
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-streak-stats.demolab.com?user=NightFury2s&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightFury2s&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=NightFury2s&theme=github-dark-blue&hide_border=true"
+  />
 </p>
 
 ---
 
-## 🚀 Current Focus
-
-```txt
-✓ AI Automation Workflows
-✓ AI Agents & LLM Engineering
-✓ Self-hosted Infrastructure
-✓ Open Source Contributions
-✓ SaaS Development
-✓ System Design
-```
-
----
-
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NightFury2s&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NightFury2s&theme=github-dark&hide_border=true"
+  />
 </p>
 
 ---
 
-## 💡 Quote
+## 🤝 Let's Connect
 
-> "Automate everything that can be automated, then build something new with the time you save."
+<p align="left">
+<a href="https://github.com/NightFury2s">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/manh-dang-0096862a8">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://dev.to/ManhDang">
+<img src="https://skillicons.dev/icons?i=devto" />
+</a>
+</p>
+
+📧 **Email:** dangmanh053@gmail.com
+
+---
+
+> Building useful AI products, contributing to Open Source, and automating everything that can be automated.
