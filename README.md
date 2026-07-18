@@ -140,7 +140,7 @@ Developer-focused tools for:
 ## 📈 Development Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/NightFury2s/NightFury2s/main/github-metrics.svg" />
 </p>
 
 ---
