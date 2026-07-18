@@ -175,12 +175,3 @@ Developing and contributing to tools that improve developer productivity and aut
 <p align="center">
 📧 <strong>dangmanh053@gmail.com</strong>
 </p>
-
----
-
-<p align="center">
-  <i>
-    Building useful AI products, contributing to Open Source,
-    and automating everything that can be automated.
-  </i>
-</p>
