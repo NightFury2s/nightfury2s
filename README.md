@@ -24,7 +24,6 @@ Building AI Agents, Automation Platforms, and Scalable Developer Tools.
 
 ## 🚀 About Me
 
-yaml
 name: NightFury
 
 role:
